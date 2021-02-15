@@ -1,0 +1,48 @@
+C:\Users\user\source\repos\Asignacion_1\bin\Debug\Asignacion_1.exe.config
+C:\Users\user\source\repos\Asignacion_1\bin\Debug\Asignacion_1.exe
+C:\Users\user\source\repos\Asignacion_1\bin\Debug\Asignacion_1.pdb
+C:\Users\user\source\repos\Asignacion_1\bin\Debug\Asignacion_1.xml
+C:\Users\user\source\repos\Asignacion_1\obj\Debug\Asignacion_1.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\Asignacion_1\obj\Debug\Asignacion_1.frmFlagSelector.resources
+C:\Users\user\source\repos\Asignacion_1\obj\Debug\Asignacion_1.Resources.resources
+C:\Users\user\source\repos\Asignacion_1\obj\Debug\Asignacion_1.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Asignacion_1\obj\Debug\Asignacion_1.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Asignacion_1\obj\Debug\Asignacion_1.exe
+C:\Users\user\source\repos\Asignacion_1\obj\Debug\Asignacion_1.xml
+C:\Users\user\source\repos\Asignacion_1\obj\Debug\Asignacion_1.pdb
+C:\Users\user\Desktop\Asignacion_1\bin\Debug\Asignacion_1.exe.config
+C:\Users\user\Desktop\Asignacion_1\bin\Debug\Asignacion_1.exe
+C:\Users\user\Desktop\Asignacion_1\bin\Debug\Asignacion_1.pdb
+C:\Users\user\Desktop\Asignacion_1\bin\Debug\Asignacion_1.xml
+C:\Users\user\Desktop\Asignacion_1\obj\Debug\Asignacion_1.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\Asignacion_1\obj\Debug\Asignacion_1.frmFlagSelector.resources
+C:\Users\user\Desktop\Asignacion_1\obj\Debug\Asignacion_1.Resources.resources
+C:\Users\user\Desktop\Asignacion_1\obj\Debug\Asignacion_1.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Asignacion_1\obj\Debug\Asignacion_1.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Asignacion_1\obj\Debug\Asignacion_1.exe
+C:\Users\user\Desktop\Asignacion_1\obj\Debug\Asignacion_1.xml
+C:\Users\user\Desktop\Asignacion_1\obj\Debug\Asignacion_1.pdb
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\bin\Debug\Asignacion_1.exe.config
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\bin\Debug\Asignacion_1.exe
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\bin\Debug\Asignacion_1.pdb
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\bin\Debug\Asignacion_1.xml
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\obj\Debug\Asignacion_1.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\obj\Debug\Asignacion_1.FrmFlagSelector.resources
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\obj\Debug\Asignacion_1.Resources.resources
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\obj\Debug\Asignacion_1.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\obj\Debug\Asignacion_1.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\obj\Debug\Asignacion_1.exe
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\obj\Debug\Asignacion_1.xml
+C:\Users\user\Desktop\Asignaciones Alexa\Asignacion_1\obj\Debug\Asignacion_1.pdb
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\bin\Debug\Asignacion_1.exe.config
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\bin\Debug\Asignacion_1.exe
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\bin\Debug\Asignacion_1.pdb
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\bin\Debug\Asignacion_1.xml
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\obj\Debug\Asignacion_1.vbprojAssemblyReference.cache
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\obj\Debug\Asignacion_1.FrmFlagSelector.resources
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\obj\Debug\Asignacion_1.Resources.resources
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\obj\Debug\Asignacion_1.vbproj.GenerateResource.cache
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\obj\Debug\Asignacion_1.vbproj.CoreCompileInputs.cache
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\obj\Debug\Asignacion_1.exe
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\obj\Debug\Asignacion_1.xml
+C:\Users\Edwin Alvarez\Desktop\Visual Basic\Asignacion_1\obj\Debug\Asignacion_1.pdb
